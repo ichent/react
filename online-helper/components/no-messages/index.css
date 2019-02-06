@@ -1,0 +1,35 @@
+.container {
+    flex: 1;
+    flex-direction: column;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 7px 15px 7px 15px;
+    overflow: auto;
+    text-align: center;
+}
+
+.ico {
+    padding-bottom: 25px;
+}
+
+.title {
+    font-family: Proxima Nova;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 16px;
+    text-align: center;
+    color: #2A323B;
+}
+
+.text {
+    font-family: Proxima Nova;
+    line-height: normal;
+    font-size: 16px;
+    text-align: center;    
+    color: #6F7994;
+}
